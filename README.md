@@ -9,5 +9,6 @@ Finished the SHA-256 hashing and established postgresql database connection
 <p>Also add diagrams for databse and portals/schemas</p>
 <p>local host download option??</p>
 <p></p>toggleable to change efficiency?</p>
+<p></p>open source?</p>
 
 <img src="https://raw.githubusercontent.com/8wp/images/main/hybrid-hashing-and-embedding-engine-processes-diagram.png" width="1200">
