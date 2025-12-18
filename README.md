@@ -11,4 +11,8 @@ Finished the SHA-256 hashing and established postgresql database connection
 <p></p>toggleable to change efficiency?</p>
 <p></p>open source?</p>
 
+phash wip
+vector embedding not started
+need to post schemas
+
 <img src="https://raw.githubusercontent.com/8wp/images/main/hybrid-hashing-and-embedding-engine-processes-diagram.png" width="1200">
