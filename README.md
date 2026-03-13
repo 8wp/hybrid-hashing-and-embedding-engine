@@ -15,4 +15,6 @@ phash wip
 vector embedding not started
 need to post schemas
 
+study for it is in dev (might post with this project)
+
 <img src="https://raw.githubusercontent.com/8wp/images/main/hybrid-hashing-and-embedding-engine-processes-diagram.png" width="1200">
